@@ -1,3 +1,10 @@
+/*
+
+Copyright (c) 2018 SIDDHARTH CHANDRA
+Licensed under MIT License
+
+*/
+
 const int trigger1 = 11;  //Trigger pin of 1st Sesnor
 const int echo1 = 10;     //Echo pin of 1st Sesnor
 const int trigger2 = 6;   //Trigger pin of 2nd Sesnor
