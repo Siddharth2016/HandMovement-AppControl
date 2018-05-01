@@ -47,11 +47,11 @@ Writing python program for Arduino based Hand Gesture Control is very simple. We
 
 We can write a simple Python Code that will execute the following tasks of keyboard and mouse.
 
-* Data = “next” – – &gt Action = Ctrl+PgDn
-* Data = “previous” – – &gt Action = Ctrl+PgUp
-* Data = “down” – – &gt Action = Down Arrow
-* Data = “up” – – &gt Action = Up Arrow
-* Data = “change” – – &gt Action = Alt+Tab
+* Data = “next” – – &gt; Action = Ctrl+PgDn
+* Data = “previous” – – &gt; Action = Ctrl+PgUp
+* Data = “down” – – &gt; Action = Down Arrow
+* Data = “up” – – &gt; Action = Up Arrow
+* Data = “change” – – &gt; Action = Alt+Tab
 
 ![Code Design](code_design.png)
 
